@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "username": "Kiram",
+            "password": "Kiram@123",
+            "Profile": {
+                "description": "Love coding and travel",
+                "Dob": "03 02 2001",
+                "Gender": "Female",
+                "Hobbies": "Listening music"
+            }
+        }
+    ]
+}
